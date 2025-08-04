@@ -1,11 +1,11 @@
 <img width="144" height="144" alt="de-logo-large-C4Ie6gN9" src="https://github.com/user-attachments/assets/52277ebf-7838-47d7-9329-ff9bd1eac8f7" />
 
 # Device Emulator
-An Xposed Module to hide/spoof various android identifiers from third party apps.
+LSposed Module to hide/spoof various android identifiers from third party apps.
 
-### Preview
+## Preview
 
-### Supported Ids
+## Supported Ids
 - Android Id
 - Google Service Framwork id (GSF)
 - Advertisment Id
@@ -22,11 +22,11 @@ An Xposed Module to hide/spoof various android identifiers from third party apps
 - Fakes Wifi Scan List
 - Fakes Bluetooth Scan List
 
-### Requirements
+## Requirements
 - Android 10+
 - LSposed Framework
 
-### Installation
+## Installation
 - Install the app
 - Go to Modules in LSposed
 - Enable Device Emulator Module in LSposed Framework
@@ -41,17 +41,17 @@ An Xposed Module to hide/spoof various android identifiers from third party apps
 > Althought this app has been tested on several devices, there are chances something can go wrong. It is always recommended to have a backup of your device ROM and other important data before trying this app.
 
 
-#### End User Licence Agreement (EULA)
+### End User Licence Agreement (EULA)
 This software is provided AS IS with no warranty of any kind, either express or implied. In no event will the author be held liable for any damages arising from the use of this software.
 
-### Support
-#### Website
+## Support
+### Website
 - https://deviceemulator.dev
-#### Email
+### Email
 - uniquesolution2015@hotmail.com
 - support@deviceemulator.dev
 
-### Credits
+## Credits
 - [@LSposed](https://github.com/LSPosed/LSPosed)
 - [@Magisk](https://github.com/topjohnwu/Magisk)
 
